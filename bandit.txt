@@ -142,6 +142,5 @@ level 32-33
 change shell use positional parameter of script ie $0 to go to bourne shell and then set shell to bash shell 
 odHo63fHiFqcWWJG9rLiLDtPm45KzUKy
 
-level 33-34
 
  
