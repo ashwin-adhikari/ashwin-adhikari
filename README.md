@@ -21,8 +21,8 @@
 
   <!-- Wrap the stats in a flex container -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 0;">
-    <img style="margin: 0;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwin-adhikari&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" />
-    <img style="margin: 0;" src="https://github-readme-stats.vercel.app/api?username=ashwin-adhikari&show_icons=true&locale=en&layout=compact&theme=dark" alt="Ashwin Adhikari's GitHub Stats" />
+    <img style="margin: 0; height: 200px; " src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwin-adhikari&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" />
+    <img style="margin: 0; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=ashwin-adhikari&show_icons=true&locale=en&layout=compact&theme=dark" alt="Ashwin Adhikari's GitHub Stats" />
   </div>
 </div>
 
