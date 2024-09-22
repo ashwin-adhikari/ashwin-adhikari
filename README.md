@@ -5,7 +5,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=30&pause=1000&color=DC980C&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin-adhikari&label=Profile%20views&color=0e75b6&style=flat" alt="visits" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
