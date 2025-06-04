@@ -38,7 +38,11 @@
 <br><!-- Add a line break to create some space between the sections -->
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
+ <a href="https://adhikariashwin0.com.np" target="blank">
+  <img src="https://raw.githubusercontent.com/shopware/meteor-icon-kit/master/icons/solid/globe.svg" width="32" height="32" alt="Globe Icon"/>
+</a>
   <a href="https://x.com/adhikariaswin7" target="blank">
     <img src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" alt="adhikariaswin7" height="30" width="40" /> 
   </a>
