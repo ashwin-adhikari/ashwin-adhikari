@@ -25,7 +25,7 @@
 
 
 <div align="center">
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin-adhikari&theme=dark" alt="streak" /></p>
+<!--   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin-adhikari&theme=dark" alt="streak" /></p> -->
 
   <!-- Wrap the stats in a flex container -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 0;">
